@@ -1,6 +1,6 @@
 <!-- 헤더 그라데이션 배너 (capsule-render) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Gunil,%20 %Park&fontSize=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Gunil,%20%Park&fontSize=50&animation=fadeIn" />
 </p>
 
 ## 🧑‍💻 About Me
