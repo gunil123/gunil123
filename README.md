@@ -7,7 +7,7 @@
 안녕하세요! 사용자 경험을 고려한 직관적인 UI/UX 구조화와 안정적인 풀스택 개발, 그리고 실생활에 도움을 주는 AI 기술 접목에 관심이 많은 **풀스택 및 AI 엔지니어** 박건일입니다.
 
 * 🛠️ **Layout & Logic**: Figma Auto Layout의 논리적 구조를 기반으로 컴포넌트 간의 유기적인 관계를 설계하고, 이를 직관적인 웹 서비스로 구현하는 것을 좋아합니다.
-* 🏋️‍♂️ **Interests**: 개발 외에는 웨이트 트레이닝에 진심이며, 신체 역학적인 움직임과 근육 타겟팅에 깊은 관심을 가지고 있습니다.
+* 🏋️‍♂️ **Interests**: 개발 외에는 웨이트 트레이닝에 진심이며, 신체 역학적인 움직임และ 근육 타겟팅에 깊은 관심을 가지고 있습니다.
 
 ---
 
@@ -45,16 +45,17 @@
 * **자세 ON (Jase-on)**
   * AI 기반의 실시간 피트니스 트레이너 서비스
   * 웹캠 기반의 실시간 운동 자세 분석, 각도 측정 및 정확한 운동 횟수 카운팅 로직 구현
-  * *Tech Stacks: React, Computer Vision, AI Model Integration*
+  * *Tech Stacks: React, Next.js, Computer Vision, AI Model Integration*
 
-* **한줄기록 (One-line Record)**
-  * 사용자의 간결한 독서 기록 및 리뷰 관리를 위한 북 매니지먼트 웹 어플리케이션
-  * 도서 검색, 로컬 스토리지를 활용한 상태 관리 및 유연한 라우팅 시스템 설계
-  * *Tech Stacks: React, React Router, Redux*
+* **TeamCanvas**
+  * 유기적인 협업과 효율적인 아키텍처 설계를 지향하는 팀 프로젝트 개발
+  * Figma를 활용한 체계적인 UI/UX 레이아웃 설계 및 프론트엔드-백엔드 간의 안정적인 데이터 흐름 구축
+  * *Tech Stacks: Web Workspace Development, Team Collaboration*
 
-* **커피 주문 시스템 데이터베이스 설계**
-  * 대규모 트랜잭션을 고려한 커피 주문 관리 시스템의 관계형 데이터베이스(RDB) 설계
-  * 1NF부터 3NF까지의 데이터베이스 정규화 과정 수행 및 최적화된 SQL 스키마 구축
+* **IBM x RedHat Midterm Project**
+  * IBM과 RedHat의 검증된 엔터프라이즈 기술 환경을 기반으로 한 중간 프로젝트
+  * 안정적인 인프라 환경 구축, 컨테이너 기반 아키텍처 및 백엔드 비즈니스 로직의 최적화 구현
+  * *Tech Stacks: Enterprise Infrastructure, Backend Engineering*
 
 ---
 
