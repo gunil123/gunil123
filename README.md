@@ -1,7 +1,4 @@
 <!-- 헤더 그라데이션 배너 (capsule-render) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Gunil,%20%Park&fontSize=50&animation=fadeIn" />
-</p>
 
 ## 🧑‍💻 About Me
 안녕하세요! 사용자 경험을 고려한 직관적인 UI/UX 구조화와 안정적인 풀스택 개발, 그리고 실생활에 도움을 주는 AI 기술 접목에 관심이 많은 **풀스택 및 AI 엔지니어** 박건일입니다.
