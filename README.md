@@ -1,16 +1,78 @@
-## Hi there 👋
+<!-- 헤더 그라데이션 배너 (capsule-render) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20Gunil!&fontSize=50&animation=fadeIn" />
+</p>
 
-<!--
-**gunil123/gunil123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me
+안녕하세요! 사용자 경험을 고려한 직관적인 UI/UX 구조화와 안정적인 풀스택 개발, 그리고 실생활에 도움을 주는 AI 기술 접목에 관심이 많은 **풀스택 및 AI 엔지니어** 박건일입니다.
 
-Here are some ideas to get you started:
+* 🛠️ **Layout & Logic**: Figma Auto Layout의 논리적 구조를 기반으로 컴포넌트 간의 유기적인 관계를 설계하고, 이를 직관적인 웹 서비스로 구현하는 것을 좋아합니다.
+* 🏋️‍♂️ **Interests**: 개발 외에는 웨이트 트레이닝에 진심이며, 신체 역학적인 움직임과 근육 타겟팅에 깊은 관심을 가지고 있습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stacks
+
+### Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+</p>
+
+### Backend & Database
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+</p>
+
+### AI & DevOps & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Projects
+
+* **자세 ON (Jase-on)**
+  * AI 기반의 실시간 피트니스 트레이너 서비스
+  * 웹캠 기반의 실시간 운동 자세 분석, 각도 측정 및 정확한 운동 횟수 카운팅 로직 구현
+  * *Tech Stacks: React, Computer Vision, AI Model Integration*
+
+* **한줄기록 (One-line Record)**
+  * 사용자의 간결한 독서 기록 및 리뷰 관리를 위한 북 매니지먼트 웹 어플리케이션
+  * 도서 검색, 로컬 스토리지를 활용한 상태 관리 및 유연한 라우팅 시스템 설계
+  * *Tech Stacks: React, React Router, Redux*
+
+* **커피 주문 시스템 데이터베이스 설계**
+  * 대규모 트랜잭션을 고려한 커피 주문 관리 시스템의 관계형 데이터베이스(RDB) 설계
+  * 1NF부터 3NF까지의 데이터베이스 정규화 과정 수행 및 최적화된 SQL 스키마 구축
+
+---
+
+## 📊 GitHub Stats & Trophies
+
+<p align="center">
+  <!-- 아래 '본인깃허브아이디' 자리에 실제 GitHub ID를 적어주세요 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=본인깃허브아이디&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인깃허브아이디&layout=compact&theme=radial&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-trophies.vercel.app/?username=본인깃허브아이디&theme=radial&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+<p align="center">
+  <!-- 방문자 수 카운터 -->
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F본인깃허브아이디&title=Views&edge_flat=true" alt="Hits"/>
+</p>
