@@ -71,7 +71,7 @@
 * **Tech Stack:** `React`, `TypeScript`, `MediaPipe`, `FastAPI`, `Gemini LLM`, `PostgreSQL`
 * **성과:** **교내 캡스톤디자인 대회 동상** 🥉 / **한국인공지능융합기술학회 우수 발표 논문상** 🏆
 * **담당 역할 및 구현 내용:**
-  * 프론트엔드 개발 총괄 및 TypeScript 전면 도입을 통한 타입 안정성 확보
+  * 프론트엔드 개발 담당 및 TypeScript 전면 도입을 통한 타입 안정성 확보
   * JWT 아키텍처 기반 사용자 인증 시스템(로그인, 회원가입) 및 세션 보안 처리 (Protected Routes 적용)
   * 컴포넌트 기반 직관적인 운동 콘텐츠 탐색 목록 UI/UX 설계 및 개발
   * MediaPipe의 웹캠 스켈레톤 좌표 데이터와 Gemini LLM 피드백을 실시간으로 화면에 매끄럽게 연동하는 파이프라인 연동 지원
@@ -79,7 +79,7 @@
 ### 3. TeamCanvas (DropIn) | 협업 툴 프로젝트
 > TypeScript 기반의 드래그 앤 드롭 기능을 활용한 All-in-one 팀 협업 공간
 * **기간:** 대학교 전공 팀 프로젝트
-* **Tech Stack:** `React`, `Next.js`, `TypeScript`, `Spring Boot`
+* **Tech Stack:** `React`, `TypeScript`, `Node.js + Express`, `Socket.io`, `MongoDB` 
 * **담당 역할 및 구현 내용:**
   * 프론트엔드 인터랙티브 UI 개발 및 핵심 컴포넌트 설계
   * **HTML5 Drag & Drop API**를 활용한 칸반 보드 형태의 태스크 관리 및 캔버스 요소 조작 기능 구현
@@ -96,5 +96,5 @@
 ---
 
 ## ✉️ Contact
-* **Email:** `your-email@gmail.com` *(실제 이메일로 변경하세요!)*
+* **Email:** `gunil1123@naver.com` *(실제 이메일로 변경하세요!)*
 * **Portfolio:** [GitHub Repository](https://github.com/gunil123)
