@@ -1,4 +1,4 @@
- # 🚀 안녕하세요! 가치를 실현하는 풀스택 개발자, 박건일입니다.
+ # 🚀 안녕하세요! 가치를 실현하는 풀스택 개발자, 박재범입니다.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Frontend-React%20%7C%20TypeScript-61dafb?style=flat-square"/>
